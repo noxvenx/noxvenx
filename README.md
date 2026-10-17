@@ -74,15 +74,15 @@ I'm especially drawn to games that mess with your head in the best way — the k
 ## 📊 Developer Dashboard
 
 <div align="center">
-*Tracking the journey, one commit at a time. 💜*
+Tracking the journey, one commit at a time. 💜
 
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=noxvenx&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Noxven's GitHub Streak" width="70%" />
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noxvenx&theme=2077" alt="GitHub Profile Summary" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noxvenx&theme=algolia&animation=sequence&name=Rizki+Novendra&bg_color=0d1117&icon_color=1f6feb" alt="GitHub Profile Summary" width="100%" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noxvenx&theme=2077" alt="Languages Across Repositories" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noxvenx&theme=2077" alt="GitHub Statistics" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noxvenx&theme=algolia&animation=sequence&bg_color=0d1117&icon_color=1f6feb" alt="Languages Across Repositories" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noxvenx&theme=algolia&animation=sequence&bg_color=0d1117&icon_color=1f6feb" alt="GitHub Statistics" width="49%" />
 </div>
 
 ---
