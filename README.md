@@ -29,12 +29,18 @@ i like figuring out how things work, turning ideas into projects, and occasional
 
 ## 🧰 stuff i work with
 
-<p>
-  <img src="https://img.shields.io/badge/C-DAE8FF?style=for-the-badge&logo=c&logoColor=2457A6" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-E6DEFF?style=for-the-badge&logo=csharp&logoColor=6544B8" alt="C sharp"/>
-  <img src="https://img.shields.io/badge/Unity-EEEEF2?style=for-the-badge&logo=unity&logoColor=242424" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Git-FFE3D9?style=for-the-badge&logo=git&logoColor=C95132" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-DCEFFF?style=for-the-badge&logo=visualstudiocode&logoColor=2875B8" alt="Visual Studio Code"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel" alt="Languages and web development" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,git,vscode,figma" alt="Development and design tools" />
+</p>
+
+### 🎨 creative tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
 
 *still learning, still experimenting, still a work in progress 🌷*
