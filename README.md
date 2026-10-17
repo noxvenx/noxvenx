@@ -28,8 +28,23 @@ I enjoy figuring out how things work, turning ideas into projects, and occasiona
 
 ## 🧰 Stuff I Work With
 
+### 💻 Languages & Web Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel,unity,github,vscode,figma" alt="Programming languages, frameworks, and development tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel" alt="Programming languages and web development technologies" />
+</p>
+
+### 🛠️ Development Tools & Game Engines
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,godot,git,github,vscode" alt="Game engines and development tools" />
+</p>
+
+### 🎨 Design & Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/CapCut-111111?style=flat&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
 
 <div align="center">
@@ -44,15 +59,13 @@ A small collection of projects, experiments, and ideas I've been working on alon
 
 | Project | What's the Vibe? |
 | --- | --- |
-| 🛠️ **FixIt** | A software project focused on solving a practical problem. |
+| 🛠️ **FixIT** | A web-based application for , built with Laravel framwework. |
 | ♻️ **Digitrash** | An exploration of ideas through a project of my own. |
 | 🌦️ **Weather App** | A hands-on project for learning application development. |
 
 More experiments, class projects, and random ideas live in my repositories.
 
 **[→ Explore All My Projects](https://github.com/noxvenx?tab=repositories)**
-
-*Project descriptions will be updated as I refine each project and document its features and tech stack.*
 
 ## 🎯 Currently Working Towards
 
