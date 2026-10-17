@@ -30,21 +30,20 @@ I enjoy figuring out how things work, turning ideas into projects, and occasiona
 
 ### 💻 Languages & Web Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel" alt="Programming languages and web development technologies" />
 </p>
 
 ### 🛠️ Development Tools & Game Engines
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=unity,godot,git,github,vscode" alt="Game engines and development tools" />
 </p>
 
 ### 🎨 Design & Creative Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/CapCut-111111?style=flat&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
 
 <div align="center">
