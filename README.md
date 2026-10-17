@@ -56,6 +56,15 @@ More experiments, class projects, and random ideas live in my repositories.
 
 **[→ Explore All My Projects](https://github.com/noxvenx?tab=repositories)**
 
+## 📊 The Dev Dashboard
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=noxvenx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Noxven's GitHub Stats" />
+  
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noxvenx&theme=tokyo-night&hide_border=true&area=true" alt="Noxven's GitHub Contribution Activity" width="100%" />
+</div>
+
 ## 🎯 Currently Working Towards
 
 - [ ] Building more complete and presentable projects.
