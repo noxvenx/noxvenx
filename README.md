@@ -30,13 +30,7 @@ i like figuring out how things work, turning ideas into projects, and occasional
 ## 🧰 stuff i work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel,unity,github,vscode,figma,capcut" alt="Language and Tools that i used" />
-</p>
-
-### 🎨 creative tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel,unity,github,vscode,figma" alt="Language and Tools that i used" />
 </p>
 
 *still learning, still experimenting, still a work in progress 🌷*
