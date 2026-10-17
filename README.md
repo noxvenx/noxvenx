@@ -42,6 +42,7 @@ I enjoy figuring out how things work, turning ideas into projects, and occasiona
 
 <img src="https://skillicons.dev/icons?i=figma" alt="Design tools" />
 
+
 <br />
 
 *Still learning, still experimenting, still a work in progress. 🌷*
@@ -54,9 +55,9 @@ A small collection of projects, experiments, and ideas I've been working on alon
 
 | Project | What's the Vibe? |
 | --- | --- |
-| 🛠️ **FixIT** | A web-based application for , built with Laravel framwework. |
-| ♻️ **Digitrash** | An exploration of ideas through a project of my own. |
-| 🌦️ **Weather App** | A hands-on project for learning application development. |
+| 🛠️ **FixIT** | A Laravel-based web application for managing device repairs, tracking service progress, maintaining repair histories, and handling invoices. Features QR code-based device identification and role-based access. |
+| ♻️ **Digitrash** | A Java-based waste bank management application designed to support digital waste management and recordkeeping. |
+| 🌦️ **Weather App** | A simple weather website that fetches weather information using the OpenWeather API. |
 
 More experiments, class projects, and random ideas live in my repositories.
 
