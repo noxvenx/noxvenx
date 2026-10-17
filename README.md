@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# hey, i'm Noxven! 👋
+# hey, i'm Rizki Novendra! 👋
 
 ### 💻 informatics student · 🎮 aspiring game dev · 🧠 AI enthusiast
 
@@ -22,9 +22,9 @@ hey! i'm an Informatics student at **Universitas Pamulang**, exploring the world
 
 i like figuring out how things work, turning ideas into projects, and occasionally making things more complicated than they need to be. classic developer behavior, right? :')
 
-- 🎮 learning to build games with **Unity**
+- 🎮 learning to build games with **Unity** and **Godot** (hopefully Unreal Engine as well :P)
 - 💻 experimenting with software projects
-- 🧠 curious about AI, pathfinding, and game logic
+- 🧠 curious about AI, Game Development, UI/UX, and maybe some Photography :P
 - 👻 big fan of psychological horror — atmosphere over cheap jump scares, always
 
 ## 🧰 stuff i work with
@@ -33,8 +33,10 @@ i like figuring out how things work, turning ideas into projects, and occasional
   <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel,unity,github,vscode,figma" alt="Language and Tools that i used" />
 </p>
 
+<p align="center>
 *still learning, still experimenting, still a work in progress 🌷*
-
+  </p>
+  
 ## 🚀 things i've been building
 
 | Project | What's the vibe? |
@@ -53,7 +55,7 @@ More experiments, class projects, and random ideas live in my repositories.
 
 - [ ] Building more complete, presentable projects
 - [ ] Making my first proper playable game
-- [ ] Getting better at AI, pathfinding, and game systems
+- [ ] Getting better at my scoop of works!
 - [ ] Finding my own style as a developer
 
 ## 🎮 the big dream
