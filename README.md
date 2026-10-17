@@ -4,7 +4,7 @@
 
 ### 💻 Informatics Student · 🎮 Aspiring Game Developer · 🧠 AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=24&pause=1200&color=0958B8&center=true&vCenter=true&width=500&lines=Building+things%2C+one+project+at+a+time.;Learning+to+make+games+%26+software.;Turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=22&pause=1000&vCenter=true&width=435&lines=Building+things%2C+one+project+at+a+time+%F0%9F%8F%97%EF%B8%8F;Learning+to+make+games+%26+software+%E2%9C%8D%EF%B8%8F;Turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
 
 *Welcome to my little corner of the internet! ✨*
 
