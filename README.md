@@ -29,12 +29,8 @@ i like figuring out how things work, turning ideas into projects, and occasional
 
 ## 🧰 stuff i work with
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel" alt="Languages and web development" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,git,vscode,figma" alt="Development and design tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel,unity,github,vscode,figma,capcut" alt="Language and Tools that i used" />
 </p>
 
 ### 🎨 creative tools
