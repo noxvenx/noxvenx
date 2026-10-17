@@ -38,8 +38,7 @@ I enjoy figuring out how things work, turning ideas into projects, and occasiona
 <h3>🎨 Design & Creative Tools</h3>
 <img src="https://skillicons.dev/icons?i=figma" alt="Design tools" />
 
-<br />
-*Still learning, still experimenting, still a work in progress. 🌷*
+<br> *Still learning, still experimenting, still a work in progress. 🌷* </br>
 </div>
 
 ## 🚀 A Peek Into My Projects
