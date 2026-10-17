@@ -4,7 +4,7 @@
 
 ### 💻 Informatics Student · 🎮 Aspiring Game Developer · 🧠 AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+things%2C+one+project+at+a+time.;Learning+to+make+games+%26+software.;Turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=24&pause=1200&color=0958B8&center=true&vCenter=true&width=500&lines=Building+things%2C+one+project+at+a+time.;Learning+to+make+games+%26+software.;Turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
 
 *Welcome to my little corner of the internet! ✨*
 
@@ -50,7 +50,7 @@ A small collection of projects, experiments, and ideas I've been working on alon
 
 More experiments, class projects, and random ideas live in my repositories.
 
-**[→ Explore All My Projects](https://github.com/noxven?tab=repositories)**
+**[→ Explore All My Projects](https://github.com/noxvenx?tab=repositories)**
 
 *Project descriptions will be updated as I refine each project and document its features and tech stack.*
 
