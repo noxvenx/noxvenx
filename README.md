@@ -71,9 +71,21 @@ I'm especially drawn to games that mess with your head in the best way — the k
 
 **Less noise, more atmosphere. Less jump scares, more psychological damage.** 👁️
 
-## Developer Dashboard
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noxvenx&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+## 📊 Developer Dashboard
+
+<div align="center">
+*Tracking the journey, one commit at a time. 💜*
+
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=noxvenx&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Noxven's GitHub Streak" width="70%" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noxvenx&theme=2077" alt="GitHub Profile Summary" width="100%" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noxvenx&theme=2077" alt="Languages Across Repositories" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noxvenx&theme=2077" alt="GitHub Statistics" width="49%" />
+</div>
 
 ---
 
