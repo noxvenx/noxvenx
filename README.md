@@ -1,136 +1,80 @@
 
 <div align="center">
 
-# NOXVEN
+# hey, i'm Noxven! 👋
 
-### `SOFTWARE DEVELOPMENT` · `GAME DEVELOPMENT` · `AI`
+### 💻 informatics student · 🎮 aspiring game dev · 🧠 AI enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8BA4C7&center=true&vCenter=true&width=500&lines=Building+ideas+into+digital+experiences.;Learning+by+building.;Exploring+the+logic+behind+games.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=building+things%2C+one+project+at+a+time.;learning+to+make+games+%26+software.;currently+turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
 
-**Informatics Student @ Universitas Pamulang**
+*welcome to my little corner of the internet ✨*
 
-*Exploring software, interactive systems, and the art of psychological horror.*
-
-[GitHub](https://github.com/noxven) ·
-[Projects](https://github.com/noxven?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-let's%20connect-24292f?style=flat&logo=github)](https://github.com/noxven)
+[![Learning](https://img.shields.io/badge/status-always%20learning-6C63FF?style=flat)](https://github.com/noxven?tab=repositories)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 🌱 a little about me
 
-## `01` — About Me
+hey! i'm an Informatics student at **Universitas Pamulang**, exploring the world of software and game development.
 
-I'm an Informatics student interested in turning ideas into practical software and interactive experiences.
+i like figuring out how things work, turning ideas into projects, and occasionally making things more complicated than they need to be. classic developer behavior, right? :')
 
-My current focus is on strengthening my programming fundamentals, developing software projects, and exploring game development.
+- 🎮 learning to build games with **Unity**
+- 💻 experimenting with software projects
+- 🧠 curious about AI, pathfinding, and game logic
+- 👻 big fan of psychological horror — atmosphere over cheap jump scares, always
 
-- Building projects to learn by doing
-- Exploring game logic, AI, and pathfinding
-- Learning how atmosphere and gameplay create psychological tension
+## 🧰 stuff i work with
 
-</td>
-<td width="40%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/C-DAE8FF?style=for-the-badge&logo=c&logoColor=2457A6" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-E6DEFF?style=for-the-badge&logo=csharp&logoColor=6544B8" alt="C sharp"/>
+  <img src="https://img.shields.io/badge/Unity-EEEEF2?style=for-the-badge&logo=unity&logoColor=242424" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Git-FFE3D9?style=for-the-badge&logo=git&logoColor=C95132" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-DCEFFF?style=for-the-badge&logo=visualstudiocode&logoColor=2875B8" alt="Visual Studio Code"/>
+</p>
 
-## `02` — Tech Stack
+*still learning, still experimenting, still a work in progress 🌷*
 
-**Languages**
+## 🚀 things i've been building
 
-![C](https://img.shields.io/badge/C-20242D?style=flat-square&logo=c&logoColor=A8C7FA)
-![CSharp](https://img.shields.io/badge/C%23-20242D?style=flat-square&logo=csharp&logoColor=A8C7FA)
+| Project | What's the vibe? |
+| --- | --- |
+| 🛠️ **FixIt** | A software project I'm developing |
+| ♻️ **Digitrash** | One of my ongoing project explorations |
+| 🌦️ **Weather App** | Learning through building an application |
 
-**Tools & Engine**
+More experiments, class projects, and random ideas live in my repositories.
 
-![Unity](https://img.shields.io/badge/Unity-20242D?style=flat-square&logo=unity&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-20242D?style=flat-square&logo=git&logoColor=F05032)
-![VSCode](https://img.shields.io/badge/VS_Code-20242D?style=flat-square&logo=visualstudiocode&logoColor=8BA4C7)
+**[→ Explore all my projects](https://github.com/noxven?tab=repositories)**
 
-**Exploring**
+> Project descriptions are placeholders for now — I'll update them with the actual features and tech stack.
 
-AI · Pathfinding · Game Systems
+## 🎯 currently working towards
 
-</td>
-</tr>
-</table>
+- [ ] Building more complete, presentable projects
+- [ ] Making my first proper playable game
+- [ ] Getting better at AI, pathfinding, and game systems
+- [ ] Finding my own style as a developer
 
----
+## 🎮 the big dream
 
-## `03` — Selected Projects
+Someday, I'd love to create original games and build an indie game studio here in Indonesia 🇮🇩
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm especially drawn to games that mess with your head in the best way — the kind that make you uneasy even after you've stopped playing.
 
-### FixIt
-
-A software project focused on solving a practical problem.
-
-**Tech:** Add your actual stack here.
-
-[View Repository →](https://github.com/noxven/FixIt)
-
-</td>
-<td width="50%" valign="top">
-
-### Digitrash
-
-A project exploring digital solutions in its own domain.
-
-**Tech:** Add your actual stack here.
-
-[View Repository →](https://github.com/noxven/Digitrash)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Weather App
-
-A project for exploring weather data and application development.
-
-**Tech:** Add your actual stack here.
-
-[View Repository →](https://github.com/noxven/Weather-app)
-
-</td>
-<td width="50%" valign="top">
-
-### More Experiments
-
-Smaller projects, experiments, and learning progress live in my repositories.
-
-[Explore All Repositories →](https://github.com/noxven?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — Current Objectives
-
-- [ ] Build and publish more complete projects
-- [ ] Develop a playable game from concept to implementation
-- [ ] Improve my understanding of AI and pathfinding
-- [ ] Establish a consistent development workflow
-
-## `05` — Beyond the Code
-
-My long-term ambition is to create original games and eventually establish an independent game studio in Indonesia.
-
-I'm especially drawn to psychological horror: **less reliance on jump scares, more tension that stays with the player.**
+**less noise, more atmosphere. less jumpscare, more psychological damage.** 👁️
 
 ---
 
 <div align="center">
 
-### START SMALL. STAY CONSISTENT. BUILD SOMETHING REAL.
+### thanks for stopping by! 💜
 
-<sub>Learning in public · Building one project at a time</sub>
+*small steps, weird ideas, real progress.*
 
 </div>
 
