@@ -56,15 +56,6 @@ More experiments, class projects, and random ideas live in my repositories.
 
 **[→ Explore All My Projects](https://github.com/noxvenx?tab=repositories)**
 
-## 📊 The Dev Dashboard
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=noxvenx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Noxven's GitHub Stats" />
-  
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noxvenx&theme=tokyo-night&hide_border=true&area=true" alt="Noxven's GitHub Contribution Activity" width="100%" />
-</div>
-
 ## 🎯 Currently Working Towards
 
 - [ ] Building more complete and presentable projects.
@@ -79,6 +70,10 @@ Someday, I'd love to create original games and build an indie game studio here i
 I'm especially drawn to games that mess with your head in the best way — the kind that leave you feeling uneasy even after you've stopped playing.
 
 **Less noise, more atmosphere. Less jump scares, more psychological damage.** 👁️
+
+## Developer Dashboard
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noxvenx&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
 
