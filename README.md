@@ -1,81 +1,83 @@
-
 <div align="center">
 
-# hey, i'm Rizki Novendra! 👋
+# Hey, I'm Rizki Novendra! 👋
 
-### 💻 informatics student · 🎮 aspiring game dev · 🧠 AI enthusiast
+### 💻 Informatics Student · 🎮 Aspiring Game Developer · 🧠 AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=building+things%2C+one+project+at+a+time.;learning+to+make+games+%26+software.;currently+turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+things%2C+one+project+at+a+time.;Learning+to+make+games+%26+software.;Turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
 
-*welcome to my little corner of the internet ✨*
+*Welcome to my little corner of the internet! ✨*
 
-[![GitHub](https://img.shields.io/badge/GitHub-let's%20connect-24292f?style=flat&logo=github)](https://github.com/noxven)
-[![Learning](https://img.shields.io/badge/status-always%20learning-6C63FF?style=flat)](https://github.com/noxven?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Let's%20Connect-24292f?style=flat&logo=github)](https://github.com/noxven)
+[![Learning](https://img.shields.io/badge/Status-Always%20Learning-6C63FF?style=flat)](https://github.com/noxven?tab=repositories)
 
 </div>
 
 ---
 
-## 🌱 a little about me
+## 🌱 A Little About Me
 
-hey! i'm an Informatics student at **Universitas Pamulang**, exploring the world of software and game development.
+Hey! I'm an Informatics student at **Universitas Pamulang**, exploring the world of software and game development.
 
-i like figuring out how things work, turning ideas into projects, and occasionally making things more complicated than they need to be. classic developer behavior, right? :')
+I enjoy figuring out how things work, turning ideas into projects, and occasionally making things more complicated than they need to be. Classic developer behavior, right? :')
 
-- 🎮 learning to build games with **Unity** and **Godot** (hopefully Unreal Engine as well :P)
-- 💻 experimenting with software projects
-- 🧠 curious about AI, Game Development, UI/UX, and maybe some Photography :P
-- 👻 big fan of psychological horror — atmosphere over cheap jump scares, always
+- 🎮 Exploring game development with **Unity** and **Godot**, with Unreal Engine on my future learning list.
+- 💻 Experimenting with software projects and learning by building.
+- 🧠 Interested in AI, game development, UI/UX design, and maybe photography, too. :P
+- 👻 A big fan of psychological horror — atmosphere over cheap jump scares, always.
 
-## 🧰 stuff i work with
+## 🧰 Stuff I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel,unity,github,vscode,figma" alt="Language and Tools that i used" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel,unity,github,vscode,figma" alt="Programming languages, frameworks, and development tools" />
 </p>
 
-<p align="center>
-*still learning, still experimenting, still a work in progress 🌷*
-  </p>
-  
-## 🚀 things i've been building
+<div align="center">
 
-| Project | What's the vibe? |
+*Still learning, still experimenting, still a work in progress. 🌷*
+
+</div>
+
+## 🚀 A Peek Into My Projects
+
+A small collection of projects, experiments, and ideas I've been working on along the way.
+
+| Project | What's the Vibe? |
 | --- | --- |
-| 🛠️ **FixIt** | A software project I'm developing |
-| ♻️ **Digitrash** | One of my ongoing project explorations |
-| 🌦️ **Weather App** | Learning through building an application |
+| 🛠️ **FixIt** | A software project focused on solving a practical problem. |
+| ♻️ **Digitrash** | An exploration of ideas through a project of my own. |
+| 🌦️ **Weather App** | A hands-on project for learning application development. |
 
 More experiments, class projects, and random ideas live in my repositories.
 
-**[→ Explore all my projects](https://github.com/noxven?tab=repositories)**
+**[→ Explore All My Projects](https://github.com/noxven?tab=repositories)**
 
-> Project descriptions are placeholders for now — I'll update them with the actual features and tech stack.
+*Project descriptions will be updated as I refine each project and document its features and tech stack.*
 
-## 🎯 currently working towards
+## 🎯 Currently Working Towards
 
-- [ ] Building more complete, presentable projects
-- [ ] Making my first proper playable game
-- [ ] Getting better at my scoop of works!
-- [ ] Finding my own style as a developer
+- [ ] Building more complete and presentable projects.
+- [ ] Creating my first proper, playable game.
+- [ ] Expanding my skills and exploring different areas of development.
+- [ ] Finding my own style as a developer.
 
-## 🎮 the big dream
+## 🎮 The Big Dream
 
-Someday, I'd love to create original games and build an indie game studio here in Indonesia 🇮🇩
+Someday, I'd love to create original games and build an indie game studio here in Indonesia. 🇮🇩
 
-I'm especially drawn to games that mess with your head in the best way — the kind that make you uneasy even after you've stopped playing.
+I'm especially drawn to games that mess with your head in the best way — the kind that leave you feeling uneasy even after you've stopped playing.
 
-**less noise, more atmosphere. less jumpscare, more psychological damage.** 👁️
+**Less noise, more atmosphere. Less jump scares, more psychological damage.** 👁️
 
 ---
 
 <div align="center">
 
-### thanks for stopping by! 💜
+### Thanks for Stopping By! 💜
 
-*small steps, weird ideas, real progress.*
+*Small steps, weird ideas, real progress.*
 
 </div>
-
 <!--
 **noxvenx/noxvenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
