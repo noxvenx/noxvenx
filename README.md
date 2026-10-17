@@ -71,8 +71,6 @@ I'm especially drawn to games that mess with your head in the best way — the k
 
 **Less noise, more atmosphere. Less jump scares, more psychological damage.** 👁️
 
----
-
 ## 📊 Developer Dashboard
 
 <div align="center">
