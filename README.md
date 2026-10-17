@@ -28,23 +28,29 @@ I enjoy figuring out how things work, turning ideas into projects, and occasiona
 
 ## 🧰 Stuff I Work With
 
+<div align="center">
 ### 💻 Languages & Web Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,php,laravel" alt="Programming languages and web development technologies" />
 </p>
+</div>
 
-### 🛠️ Development Tools & Game Engines
+<div align="center">
+  ### 🛠️ Development Tools & Game Engines
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=unity,godot,git,github,vscode" alt="Game engines and development tools" />
 </p>
+</div>
 
-### 🎨 Design & Creative Tools
+<div>
+  ### 🎨 Design & Creative Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
+</div>
 
 <div align="center">
 
